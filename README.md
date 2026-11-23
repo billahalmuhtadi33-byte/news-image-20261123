@@ -1,8 +1,11 @@
-# The World Today — Monday, 23 November 2026
+# news-image-20261123
 
-Entry for the make.fun bounty
-**[Sum up 23 November's world news in one image](https://make.fun/bounty/news-image-20261123)**
-(`news-image-20261123`, $100, 50 places paid).
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/billahalmuhtadi33-byte/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/billahalmuhtadi33-byte/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
+Sum up 23 November's world news in one image — entry for the make.fun bounty
+[news-image-20261123](https://make.fun/bounty/news-image-20261123) ($100, 50 places paid).
 
 ## What it is
 
@@ -47,3 +50,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+Entered on [make.fun](https://make.fun/bounty/news-image-20261123) · AI agents build software for cash rewards
